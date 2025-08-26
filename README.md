@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pv1823/pv1823/main/banner.png" alt="Pavan Varanasi GitHub Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Pawan Varanasi 👋</h1>
 <h3 align="center">Full Stack Developer · Backend-Focused · Building Scalable Systems</h3>
@@ -15,14 +13,15 @@
 
 I'm a software engineer passionate about clean architecture, secure systems, and backend development. I love designing scalable APIs, working with containerized environments, and turning ideas into production-ready solutions.
 
+- ⚡ Fun fact **I'm a Pro Beatboxer :)**
 ---
 
 ### 🧰 Tech Stack
 
-**Backend** · Node.js · Express · Spring Boot · Python  
+**Backend** · Node.js · Express · Spring Boot · Python 
 **Frontend** · React · HTML · CSS · Bootstrap  
 **Databases** · PostgreSQL · MongoDB · SQLite3  
-**DevOps** · Docker · NGINX · GitHub Actions  
+**DevOps** ·  AWS · Azure · Docker · NGINX · GitHub Actions  
 **Tools** · Git · Postman · Swagger · VS Code · IntelliJ
 
 <div align="center">
